@@ -15,8 +15,12 @@ https://ia800305.us.archive.org/25/items/saweriabandeltv/saweriabandeltv.mp4
 https://stream.zeno.fm/74a8bovxdohtv
 #EXTINF:-1 tvg-id=""  " tvg-logo="https://i.pinimg.com/originals/41/ac/0c/41ac0c8d635678dafbda4416ce5ec9c4.png", group-title="Info Bandel TV",085246103288
 https://archive.org/download/wa_20240729/wa.mp4
-#EXTINF:-1 tvg-id=""  " tvg-logo="https://i.pinimg.com/originals/41/ac/0c/41ac0c8d635678dafbda4416ce5ec9c4.png", group-title="Info Bandel TV",tes
-https://www.808bola86.com/football/2624376-liverpool-vs-arsenal.html
+#EXTINF:-1 group-title="Live Event" tvg-name="Live Event" tvg-country="" tvg-logo="", tes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a19bc5f83cec35b4c3503db41d08e4e:e1f3bb13fc1dc7f5a3a5753d35bff8ea
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/17485/master.m3u8?hdnts=exp=1722494807~acl=/live/17485/*~id=164707795~hmac=89c1cc50ef15cdd7cadca46238d20726898e4f40436beb79998465e2322692a2
 =====AL QURAN====
 #EXTINF:-1 group-title="AL QURAN" tvg-logo="https://mvslim.com/wp-content/uploads/2021/03/quran-1.jpeg",001. Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
